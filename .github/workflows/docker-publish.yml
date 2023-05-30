@@ -11,7 +11,7 @@ on:
 
 jobs:
 
-  build-pyreconstruct:
+  build-r-tidycensus:
     runs-on: ubuntu-latest
 
     steps:
